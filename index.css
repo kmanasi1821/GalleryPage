@@ -14,7 +14,7 @@ body{
   
   .panel{
     position: relative;
-    height: 80vh;
+    height: 85vh;
     flex: 0.5;
     background-size: cover;
     background-position: center;
